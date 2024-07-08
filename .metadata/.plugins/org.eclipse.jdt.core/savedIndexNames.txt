@@ -1,0 +1,20 @@
+INDEX VERSION 1.131+C:\Users\AdministradorGeral\Downloads\Xadrez Projeto Versões\chess-java-master\.metadata\.plugins\org.eclipse.jdt.core
+778558694.index
+3068454124.index
+1795020427.index
+3959137331.index
+3469714831.index
+2823657250.index
+1865797976.index
+1333017547.index
+2209599511.index
+3873046325.index
+527461131.index
+2680736917.index
+1922392540.index
+64381343.index
+3926100344.index
+2872767609.index
+1140694551.index
+633138752.index
+2115410094.index
